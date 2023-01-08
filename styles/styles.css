@@ -102,6 +102,9 @@ main{
 
 
 /* my failures section style */
+.My-failures{
+    margin-top: 100px;
+}
 
 .My-failures-info{
     display: flex;
@@ -202,7 +205,7 @@ footer{
     width: 1600px;
     height: 577px;
     left: 0px;
-    top: 3071.96px;
+    top: 3195.96px;
     background: #151414;
     position: absolute;
 }
